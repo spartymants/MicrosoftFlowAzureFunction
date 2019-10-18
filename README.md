@@ -14,7 +14,7 @@ A JSON payload like this:
 
 Is automatically transfomed to SOAP/XML like this:
 
-<xml>
+`<xml>
   <CustomerName>Mike Jones</CustomerName>
   <AccountNumber>12345</AccountNumber>
-</xml>
+</xml>`
